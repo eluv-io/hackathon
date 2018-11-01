@@ -2,6 +2,12 @@
 
 :sparkles: Check back after 12 midnight on Friday November 2 :sparkles:
 
+### Docs
+
+Wiki: https://github.com/eluv-io/calhacks/wiki
+
+### Slack channel
+
 Join the Eluvio Cal Hacks 5.0 Slack channel for questions, discussions and announcements:
 https://join.slack.com/t/calhackseluvio/signup
 
