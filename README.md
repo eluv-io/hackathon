@@ -1,6 +1,10 @@
 # Eluvio instructions for Cal Hacks 5.0
 
-:sparkles: Check back after 12 midnight on Friday November 2 :sparkles:
+### Slides from the Pre-Hackathon Meeting
+
+See the ELUVIO @ CALHACKS pdf in this repo 
+
+:sparkles: Check back after 12 midnight on Friday November 2 for sample code and supporting READMEs:sparkles:
 
 ### Docs
 
