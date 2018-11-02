@@ -2,7 +2,7 @@
 
 ### Slides from the Pre-Hackathon Meeting
 
-See the ELUVIO @ CALHACKS pdf in this repo 
+See:ELUVIO @ CALHACKS pdf  
 
 :sparkles: Check back after 12 midnight on Friday November 2 for sample code and supporting READMEs:sparkles:
 
