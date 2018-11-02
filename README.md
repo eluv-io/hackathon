@@ -17,6 +17,10 @@ For the machine learning challenge, refer to this repo: [https://github.com/eluv
 
 Join us onsite CalHacks or on our slack channel for live discussions and tutorials. Good luck and hope to "meet" you soon!
 
+## For Mac OS Users - Download the Eluvio Continuum Reference Application to get a "Taste" of the Content Fabric
+
+This is a simple but fun reference application that will allow you to browse libraries as "channels", stream video published into the fabric, and exercise the blockchain smart contract capability built in.  Download the Continuum app .zip, unzip it and run /Continuum.app/Contents/MacOS/Continuum  In the introductory window enter an account name of your choice and a password and you will be automatically connected to the test fabric platform.
+
 ### Slides from the Pre-Hackathon Meeting
 
 See: https://github.com/eluv-io/calhacks/blob/master/ELUVIO%20%40%20CALHACKS%202018.pdf 
