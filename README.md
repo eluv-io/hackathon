@@ -4,8 +4,6 @@
 
 See: https://github.com/eluv-io/calhacks/blob/master/ELUVIO%20%40%20CALHACKS%202018.pdf 
 
-:sparkles: Check back after 12 midnight on Friday November 2 for sample code and supporting READMEs:sparkles:
-
 ### Docs
 
 Wiki: https://github.com/eluv-io/calhacks/wiki
