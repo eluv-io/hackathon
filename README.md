@@ -8,7 +8,7 @@ The Eluvio Content Fabric is a work-in-progress, novel decentralized platform fo
 
 For Calhacks, we have created two significant "challenges" -- one that applies the content fabric APIs around content management, programmable media ("bitcode"), and blockchain smart contracts -- and a second challenge focused on machine learning around content in the fabric.
 
-###  Challenge Details
+###  Challenge Details and Prizes
 
 Please review the Wiki for more specific information about each challenge: [https://github.com/eluv-io/calhacks/wiki](https://github.com/eluv-io/calhacks/wiki)
 
