@@ -21,7 +21,7 @@ Join us onsite CalHacks or on our slack channel for live discussions and tutoria
 
 ## Getting Started with the APIs
 
-Please read our [https://github.com/eluv-io/calhacks/wiki/API-Quick-Start-for-the-Content-Fabric-APIs] Quick Start with the APIs overview.
+Please read our [https://github.com/eluv-io/calhacks/wiki/API-Quick-Start-for-the-Content-Fabric-APIs] (Quick Start with the APIs) overview.
 
 ### For Mac OS Users - Download the Eluvio Continuum App for a "Taste" of the Content Fabric
 
