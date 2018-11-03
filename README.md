@@ -12,7 +12,7 @@ For Calhacks, we have created two significant "challenges" -- one that applies t
 
 Please review the Wiki for more specific information about each challenge: [https://github.com/eluv-io/calhacks/wiki](https://github.com/eluv-io/calhacks/wiki)
 
-The best place to start for the content API fabric challenge is this repo: [https://github.com/eluv-io/elv-client-js](https://github.com/eluv-io/elv-client-js).
+The best place to start for the content API fabric challenge is https://github.com/eluv-io/calhacks/wiki/API-Quick-Start-for-the-Content-Fabric-APIs and this repo: [https://github.com/eluv-io/elv-client-js](https://github.com/eluv-io/elv-client-js).
 Look here for information about programmable media: [https://github.com/eluv-io/content-bitcode](https://github.com/eluv-io/content-bitcode)
 
 For the machine learning challenge, refer to this repo: [https://github.com/eluv-io/audio-tagging](https://github.com/eluv-io/audio-tagging)
