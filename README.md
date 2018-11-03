@@ -19,7 +19,7 @@ For the machine learning challenge, refer to this repo: [https://github.com/eluv
 
 Join us onsite CalHacks or on our slack channel for live discussions and tutorials. Good luck and hope to "meet" you soon!
 
-## Getting Started with the APIs
+### Getting Started with the APIs
 
 Please read: https://github.com/eluv-io/calhacks/wiki/API-Quick-Start-for-the-Content-Fabric-APIs 
 
