@@ -26,7 +26,7 @@ The Content Fabric is perfectly suitable for developing your very own Spotify or
 
 ### Where to start
 
-The best place to start is the API introduction: https://github.com/eluv-io/hakckathon/wiki/API-Quick-Start-for-the-Content-Fabric-APIs
+The best place to start is the API introduction: https://github.com/eluv-io/hackathon/wiki/API-Quick-Start-for-the-Content-Fabric-APIs
 
 Quicklinks:
 
